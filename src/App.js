@@ -12,7 +12,7 @@ function App() {
         <p>
           Get a hold of me on <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://twitter.com/BetaLixT"
           target="_blank"
           rel="noopener noreferrer"
         >Twitter</a> if you have a project idea for this domain</p>
